@@ -4,9 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "~/.conan2/**",
-                "~/.conan2/p/nlohm0567ffc90cfc1/p/include",
-                "/Users/sreepathyjayanand/.conan2/p/boost25609d7719073/s/src"
+                "~/.conan2/**"
             ],
             "defines": [],
             "macFrameworkPath": [

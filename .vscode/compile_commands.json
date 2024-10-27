@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sreepathyjayanand/Documents/code/viyr/build",
+  "command": "/usr/bin/clang++ -DBOOST_STACKTRACE_ADDR2LINE_LOCATION=\\\"/usr/bin/addr2line\\\" -DBOOST_STACKTRACE_GNU_SOURCE_NOT_REQUIRED -DBOOST_STACKTRACE_USE_ADDR2LINE -DBOOST_STACKTRACE_USE_BACKTRACE -DBOOST_STACKTRACE_USE_NOOP -isystem /Users/sreepathyjayanand/.conan2/p/nlohm0567ffc90cfc1/p/include -isystem /Users/sreepathyjayanand/.conan2/p/b/boostac9facbfa5541/p/include -isystem /Users/sreepathyjayanand/.conan2/p/b/libba1d1e53f67a2d3/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/viyr.dir/src/backend/main.cpp.o -c /Users/sreepathyjayanand/Documents/code/viyr/src/backend/main.cpp",
+  "file": "/Users/sreepathyjayanand/Documents/code/viyr/src/backend/main.cpp",
+  "output": "CMakeFiles/viyr.dir/src/backend/main.cpp.o"
+}
+]
