@@ -1,5 +1,5 @@
 from conan import ConanFile
-from conan.tools.cmake import cmake_layout, CMakeToolchain
+from conan.tools.cmake import cmake_layout, CMakeToolchain, CMakeDeps
 
 
 class ExampleRecipe(ConanFile):
@@ -12,4 +12,3 @@ class ExampleRecipe(ConanFile):
 
     def layout(self):
         cmake_layout(self)
-
